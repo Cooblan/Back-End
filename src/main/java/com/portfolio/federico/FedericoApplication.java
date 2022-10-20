@@ -18,7 +18,7 @@ public class FedericoApplication {
 		return new WebMvcConfigurer() {
 			@Override
 			public void addCorsMappings(CorsRegistry registry) {
-				registry.addMapping("/**").allowedOrigins("https://backportfolio1.herokuapp.com").allowedMethods("*").allowedHeaders("*");
+				registry.addMapping("/**").allowedOrigins("https://frontendpruebafs.web.app").allowedMethods("*").allowedHeaders("*");
 			}
 		};
 	}
