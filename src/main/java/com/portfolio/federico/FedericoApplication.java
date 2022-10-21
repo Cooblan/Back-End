@@ -13,7 +13,7 @@ public class FedericoApplication {
 		SpringApplication.run(FedericoApplication.class, args);
 	}
 
-        @Bean
+        /*@Bean
         public WebMvcConfigurer corsConfigurer() {
 		return new WebMvcConfigurer() {
 			@Override
@@ -25,4 +25,5 @@ public class FedericoApplication {
 			}
 		};
 	}
+      */
 }
