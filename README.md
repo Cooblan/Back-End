@@ -2,7 +2,7 @@
 
 Esta es la sección back-end de mi portafolio
 
-##Esquema
+## Esquema
 
 Para la capa "Front End Angular" utilizo Firebase:
 https://firebase.google.com
