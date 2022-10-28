@@ -1,6 +1,6 @@
 ## Back-End
 
-Esta es la sección back-end de mi portafolio
+Esta es la sección back-end de mi portafolio, acá se encuentran todos los datos que necesita el front, peticiones y demás que darán resultado la funcionalidad del proyecto.
 
 ## Esquema
 
