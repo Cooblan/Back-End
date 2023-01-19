@@ -55,7 +55,7 @@ public class PersonaController {
         return new ResponseEntity(new Mensaje("Persona eliminada"), HttpStatus.OK);
     } 
     
-    @PostMapping("/create")
+     @PostMapping("/create")
     public ResponseEntity<?> create(@RequestBody dtoPersona dtopersona){
         if(StringUtils.isBlank(dtopersona.getNombre())){
             return new ResponseEntity(new Mensaje("El nombre es obligatorio"), HttpStatus.BAD_REQUEST); 
@@ -69,6 +69,7 @@ public class PersonaController {
         );personaService.save(persona);
         return new ResponseEntity(new Mensaje("Persona creada"), HttpStatus.OK);
     }
+
     
     //@PreAuthorize("hasRole('ROLE_ADMIN')")
     @PutMapping("/update/{id}")
