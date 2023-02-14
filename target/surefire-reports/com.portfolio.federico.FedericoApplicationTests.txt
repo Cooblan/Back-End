@@ -1,6 +1,7 @@
 -------------------------------------------------------------------------------
 Test set: com.portfolio.federico.FedericoApplicationTests
 -------------------------------------------------------------------------------
+<<<<<<< HEAD
 Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 52.652 s <<< FAILURE! - in com.portfolio.federico.FedericoApplicationTests
 contextLoads  Time elapsed: 0.001 s  <<< ERROR!
 java.lang.IllegalStateException: Failed to load ApplicationContext
@@ -17,3 +18,6 @@ Communications link failure
 The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
 Caused by: java.net.ConnectException: Connection refused: no further information
 
+=======
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 45.795 s - in com.portfolio.federico.FedericoApplicationTests
+>>>>>>> de3dbc5e95ca888fded0faae305fc29776416802
