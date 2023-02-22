@@ -7,8 +7,8 @@ Esta es la sección back-end de mi portafolio, acá se encuentran todos los dato
 Para la capa "Front End Angular" utilizo Firebase:
 https://firebase.google.com
 
-Para la capa "Back End" utilizo Heroku:
-https://heroku.com/
+Para la capa "Back End" utilizo Render:
+https://render.com/
 
 Para la capa "Base de datos MySQL" utilizo CleverCloud:
 https://www.clever-cloud.com
