@@ -13,5 +13,5 @@ https://render.com/
 Para la capa "Base de datos MySQL" utilizo CleverCloud:
 https://www.clever-cloud.com
 
-![Mi esquema BDD](![198746222-a6d25bcb-36f1-41ba-a45f-0255ac34ceb8](https://user-images.githubusercontent.com/100737118/220785576-264e2d03-7640-4516-a8d1-6851dbb3e0e5.jpg)
+![Mi esquema BDD](https://user-images.githubusercontent.com/100737118/220785576-264e2d03-7640-4516-a8d1-6851dbb3e0e5.jpg)
 )
